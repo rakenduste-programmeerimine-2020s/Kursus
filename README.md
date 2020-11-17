@@ -70,13 +70,13 @@ Seejärel loo feature branch vastava issue nimega. Näiteks tegin issue [#15](ht
 Lahendan ülesannet ning teen commit'e, et muudatused kaotsi ei läheks. Pushin muudatused ka GitHubi, tark Giti GUI rakendus oskab tekitada samanimelise branchi ja viia muudatused üles GitHubi. 
 
 ### 3. Valmis ülesande esitamine
-Kontrolli, et rakendus töötab ka väiksemal ekraanil ning kui ülesanne on valmis siis, mine Github'i ja tee Pull request. Lisa sellele arusaadav pealkiri, mis võiks olla issue põhisõnum ja märgi Pull requesti sisuks (body) lisaks soovituslikele kommentaaridele ka `closes #55` vastava Issue number, mille lahendasid, et see automaatselt kinni pannaks kui Pull request liidetud. 
+Kontrolli, et rakendus töötab ka väiksemal ekraanil ning kui ülesanne on valmis siis, mine Github'i ja tee Pull request. Lisa sellele arusaadav pealkiri, mis võiks olla issue põhisõnum ja märgi Pull requesti sisuks (body) lisaks soovituslikele kommentaaridele ka `closes #15` vastava Issue number, mille lahendasid, et see automaatselt kinni pannaks kui Pull request liidetud. 
 
 ### 4. Merge
 Kui sinu Pull request on üle vaadatud siis Pull requesti omanik liidab (merge) oma Pull requesti ise.  
 1. Vali **Squash and Merge**
 1. Seejäre saad muudatused kokku liita ühte commit'i, mis võiks olla kujul: **kirjeldus mis probleemi lahendasid, issue nr (pull requesti number)** NT:
 ```
-Replace footer urls #15 (#1)
+Replace footer urls #15
 ```
 **Kui muudatused liidetud võid oma feature branchi ära kustutada.**
