@@ -75,8 +75,8 @@ Kontrolli, et rakendus töötab ka väiksemal ekraanil ning kui ülesanne on val
 ### 4. Merge
 Kui sinu Pull request on üle vaadatud siis Pull requesti omanik liidab (merge) oma Pull requesti ise.  
 1. Vali **Squash and Merge**
-1. Seejäre saad muudatused kokku liita ühte commit'i, mis võiks olla kujul: **kirjeldus mis probleemi lahendasid, issue nr (pull requesti number)** NT:
+1. Seejäre saad muudatused kokku liita ühte commit'i, mis võiks olla kujul: **kirjeldus mis probleemi lahendasid, issue nr** NT:
 ```
-Replace footer urls #15
+Replace footer urls, #15
 ```
 **Kui muudatused liidetud võid oma feature branchi ära kustutada.**
