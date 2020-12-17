@@ -35,16 +35,16 @@ saamiseks peavad kõik tööd olema esitatud nõutud tasemel:
 Eksamiajad on järgmised ja töö tuleb esitada Slacki sõnumina
   
 Esimene põhieksam TA-II rühmal 
-- 15.12 16:15-17:00
+- 15.12 
 
 Esimene põhieksam TA-I rühmal
-- 17.12 16:15-17:00
+- 17.12 
 
 Teine põhieksam mõlemal koos 
-- 14.01 16:15-17:00
+- 14.01 
 
 Järeleksam mõlemal rühmal
-- 21.01 16:15-17:00
+- 21.01 
 
 ## Arenduskeskkonna üles seadmine
 Järgi installeerimise juhiseid projekti Readme failis [/teemaderegister](https://github.com/rakenduste-programmeerimine-2020s/teemaderegister)
